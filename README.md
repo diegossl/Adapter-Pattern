@@ -2,9 +2,9 @@
   <img src="https://refactoring.guru/images/patterns/cards/adapter-mini.png"/>
 <p/>
 
-# Padrão de projeto adaptador
+# Padrão de projeto adapter
 
-O adaptador é um padrão de design estrutural que permite que objetos com interfaces incompatíveis colaborem.
+O adapter é um padrão de design estrutural que permite que objetos com interfaces incompatíveis colaborem.
 
 ## Setup
 
