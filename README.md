@@ -4,7 +4,7 @@
 
 # Padrão de projeto adapter
 
-O adapter é um padrão de design estrutural que permite que objetos com interfaces incompatíveis colaborem.
+Adapter é um padrão de design estrutural que permite que objetos com interfaces incompatíveis colaborem.
 
 ## Setup
 
